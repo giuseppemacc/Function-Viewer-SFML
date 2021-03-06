@@ -1,2 +1,2 @@
 # Function-Viewer-SFML
-![plot](./example.png)
+![plot](example.PNG)
